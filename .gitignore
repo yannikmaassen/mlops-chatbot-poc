@@ -7,3 +7,7 @@ models/
 *.db
 __pycache__/
 *.ipynb_checkpoints/
+venv/
+.env
+.env.local
+

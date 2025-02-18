@@ -1,0 +1,27 @@
+# Core Dependencies
+openai
+chromadb
+sentence-transformers
+numpy
+pandas
+scikit-learn
+nltk
+rouge-score
+
+# Web Scraping
+beautifulsoup4
+requests
+selenium
+playwright
+
+# Web App Backend
+fastapi
+uvicorn
+
+# UI Framework
+streamlit
+
+
+# Deployment
+gunicorn
+docker

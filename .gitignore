@@ -1,0 +1,9 @@
+# Ignore data and model files
+data/
+models/
+*.json
+*.pkl
+*.log
+*.db
+__pycache__/
+*.ipynb_checkpoints/

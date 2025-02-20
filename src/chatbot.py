@@ -1,7 +1,7 @@
 from config import openai_client
-from embeddings import get_embedding
+from embeddings.embeddings_helper import get_embedding
 from retriever import search_docs
-from database import initialize_chromadb
+from database.database import initialize_chromadb
 
 def generate_response(query):
     collection = initialize_chromadb()

@@ -71,3 +71,40 @@ def get_tensorflow_docs():
     "https://www.tensorflow.org/io",
     "https://www.tensorflow.org/neural_structured_learning"
 ]
+
+
+def get_dvc_docs():
+    return [
+    "https://dvc.org/doc/start",
+    "https://dvc.org/doc/command-reference/add",
+    "https://dvc.org/doc/command-reference/checkout",
+    "https://dvc.org/doc/command-reference/commit",
+    "https://dvc.org/doc/command-reference/config",
+    "https://dvc.org/doc/command-reference/destroy",
+    "https://dvc.org/doc/command-reference/diff",
+    "https://dvc.org/doc/command-reference/fetch",
+    "https://dvc.org/doc/command-reference/gc",
+    "https://dvc.org/doc/command-reference/get",
+    "https://dvc.org/doc/command-reference/import",
+    "https://dvc.org/doc/command-reference/init",
+    "https://dvc.org/doc/command-reference/lock",
+    "https://dvc.org/doc/command-reference/ls",
+    "https://dvc.org/doc/command-reference/metrics",
+    "https://dvc.org/doc/command-reference/move",
+    "https://dvc.org/doc/command-reference/pipeline",
+    "https://dvc.org/doc/command-reference/pull",
+    "https://dvc.org/doc/command-reference/push",
+    "https://dvc.org/doc/command-reference/remove",
+    "https://dvc.org/doc/command-reference/repro",
+    "https://dvc.org/doc/command-reference/root",
+    "https://dvc.org/doc/command-reference/run",
+    "https://dvc.org/doc/command-reference/status",
+    "https://dvc.org/doc/command-reference/unprotect",
+    "https://dvc.org/doc/command-reference/update",
+    "https://dvc.org/doc/command-reference/version",
+    "https://dvc.org/doc/user-guide/dvc-files",
+    "https://dvc.org/doc/user-guide/dvcignore",
+    "https://dvc.org/doc/user-guide/large-dataset-optimization",
+    "https://dvc.org/doc/user-guide/managing-external-data",
+    "https://dvc.org/doc/user-guide/troubleshooting"
+]

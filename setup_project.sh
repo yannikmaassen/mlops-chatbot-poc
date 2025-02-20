@@ -46,5 +46,3 @@ EOL
 # First Git commit
 git add .
 git commit -m "Initial project setup"
-
-echo "✅ MLOps Chatbot project structure created and initialized with Git!"
